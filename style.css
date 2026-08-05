@@ -213,7 +213,7 @@ section { padding-block: clamp(4rem, 8vw, 7rem); }
   width: 32px;
   height: 32px;
   cursor: pointer;
-  background: url("../img/menu.svg") center/cover no-repeat;
+  background: url("img/menu.svg") center/cover no-repeat;
 }
 
 .hero {
