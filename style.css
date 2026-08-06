@@ -563,8 +563,8 @@ section { padding-block: clamp(4rem, 8vw, 7rem); }
   color: #5C6580;
 }
 
-@media (max-width: 900px) {
-  
+.footer-brand_logo{
+  height: 60px;
 }
 
 @media (max-width: 970px) {
